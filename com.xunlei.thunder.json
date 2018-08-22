@@ -1,0 +1,9 @@
+{
+  "name": "com.xunlei.thunder",
+  "description": "Chrome Native Messaging API Thunder Host",
+  "path": "/home/littlehands/Project/Git/Wine迅雷 for Chrome/xl_ext_chrome.sh",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://ncennffkjdiamlpmcbajkmaiiiddgioo/"
+  ]
+}
